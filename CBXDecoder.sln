@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBXDecoder", "CBXDecoder.csproj", "{0640D9A2-F12C-45AB-94A8-F8BF295999E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0640D9A2-F12C-45AB-94A8-F8BF295999E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0640D9A2-F12C-45AB-94A8-F8BF295999E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0640D9A2-F12C-45AB-94A8-F8BF295999E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0640D9A2-F12C-45AB-94A8-F8BF295999E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30744DA4-F0E2-40F4-ACA1-F9CCEBCC2980}
+	EndGlobalSection
+EndGlobal
